@@ -62,7 +62,7 @@
   
   <AcademyStudent80>
     <!-- EN: academy student  -->
-    <title>estudiante academia</title>
+    <title>estudiante academico</title>
     <!-- EN: student  -->
     <titleShort>estudiante</titleShort>
     <!-- EN: [PAWN_nameDef] went to school like a good space cadet would. He was very tall and was known for his good looks.\n\nThough he worried more about his hairstyle than his grades, he still somehow passed the final exams. -->
@@ -75,7 +75,7 @@
     <!-- EN: cursed -->
     <titleShort>maldito</titleShort>
     <!-- EN: [PAWN_nameDef] was born at the peak of a lunar eclipse. The elders declared [PAWN_objective] a child of darkness brought [PAWN_objective] under their care.\n\n[PAWN_possessive] entire childhood was spent studying the lore and rituals of [PAWN_possessive] people - until the day of calling. -->
-    <desc>[PAWN_nameDef] nació en el pico de un eclipse lunar. Los ancianos lo declararon un(a) niño(a) de la oscuridad lo trajo bajo su cuidado.\n\nToda [PAWN_possessive] infancia se dedicó a estudiar la sabiduría y los rituales de su gente - hasta el día de la llamada.</desc>
+    <desc>[PAWN_nameDef] nació en el pico de un eclipse lunar. Los ancianos lo declararon un(a) niño(a) de la oscuridad lo trajo bajo su cuidado.\n\nToda [PAWN_possessive] infancia se dedicó a estudiar la historia y rituales de su gente - hasta el día de la llamada.</desc>
   </AccursedChild81>
   
   <AceFighterPilot38>
@@ -84,7 +84,7 @@
     <!-- EN: ace -->
     <titleShort>piloto</titleShort>
     <!-- EN: [PAWN_nameDef] graduated from the Star Academy with honors and distinguished himself as an ace fighter pilot in three campaigns against more advanced aggressor cultures. \n\nHowever, after one vicious battle, he found himself stranded and his carrier ship destroyed. With nowhere to go, he entered his escape pod and prayed. -->
-    <desc>[PAWN_nameDef] se graduó de la Academia Estelar con honores y se distinguió como un piloto de cazas en tres campañas contra culturas agresoras más avanzadas.\n\nSin embargo, después de una dura batalla, se encontró varado(a) y su nave destruida. Sin tener a dónde ir, entró en su cápsula de escape y rezó.</desc>
+    <desc>[PAWN_nameDef] se graduó de la Academia Estelar con honores y se distinguió como un piloto de cazas en tres campañas contra culturas agresoras más avanzadas.\n\nSin embargo, después de una dura batalla, se a la deriva con su nave destruida. Sin tener a dónde ir, entró en su cápsula de escape y rezó.</desc>
   </AceFighterPilot38>
   
   <AcolyteOfStars63>
@@ -102,7 +102,7 @@
     <!-- EN: actor -->
     <titleShort>actor</titleShort>
     <!-- EN: [PAWN_nameDef] travelled [PAWN_possessive] homeworld with a company of actors, playing to packed theatres and loving audiences everywhere. [PAWN_pronoun] was a perfectionist, and made [PAWN_possessive] own props and costumes rather than use the ones [PAWN_pronoun] was given. -->
-    <desc>[PAWN_nameDef] viajó alrededor de su planeta natal con una compañía de actores, actuando en concurridos teatros. [PAWN_pronoun] era un perfeccionista, y se hacía sus propios props y disfraces en ves de usar los que se le daban.</desc>
+    <desc>[PAWN_nameDef] viajó alrededor de su planeta natal con una compañía de actores, actuando en concurridos teatros. [PAWN_pronoun] era un perfeccionista, y se hacía sus propios disfraces en ves de usar los que se le daban.</desc>
   </Actor42>
   
   <AddictionCounsel60>
@@ -116,11 +116,11 @@
   
   <Adventurer19>
     <!-- EN: adventurer -->
-    <title>adventurero</title>
+    <title>aventurero</title>
     <!-- EN: adventurer -->
-    <titleShort>adventurero</titleShort>
+    <titleShort>aventurero</titleShort>
     <!-- EN: [PAWN_nameDef]'s thirst for adventure took [PAWN_objective] to many planets. [PAWN_pronoun] visited the brightest glitterworlds and the darkest war-torn toxic planets in [PAWN_possessive] quest to find novelty and excitement.\n\n[PAWN_pronoun] worked as little as possible, often skirting ethical boundaries to make a quick buck. Among all jobs, [PAWN_pronoun] hated cooking the most. -->
-    <desc>La sed de aventura de [PAWN_nameDef] lo llevó a muchos planetas. [PAWN_pronoun] visitó los MundosBrillantes y los planetas tóxicos más oscuros devastados por la guerra en su búsqueda para encontrar la novedad y la emoción.\n\n[PAWN_pronoun] trabajó lo menos posible, a menudo esquivando límites éticos para hacer dinero rápido. Entre todos los trabajos, lo que mas odiaba era cocinar.</desc>
+    <desc>La sed de aventura de [PAWN_nameDef] lo llevó a muchos planetas. [PAWN_pronoun] visitó los MundosBrillantes más brillantes y los planetas tóxicos más oscuros devastados por la guerra en su búsqueda para encontrar la novedad y la emoción.\n\n[PAWN_pronoun] trabajó lo menos posible, a menudo esquivando límites éticos para hacer dinero rápido. Entre todos los trabajos, lo que mas odiaba era cocinar.</desc>
   </Adventurer19>
   
   <AdventuringChild56>
@@ -128,8 +128,8 @@
     <title>niño aventurero</title>
     <!-- EN: adventurer -->
     <titleShort>aventurero</titleShort>
-    <!-- EN: Axle was raised to become an engineer. For years, he planned to stow away on a cargo ship and start a new, more adventuresome life.\n\nOne night, after his parents fell asleep, he managed to sneak on board a cargo ship just before it left port. -->
-    <desc>Axle fue criado para convertirse en ingeniero. Durante años, planeó refugiarse en un buque de carga e iniciar una nueva y más aventurera vida.\n\nUna noche, después de que sus padres se durmieran, logró escabullirse a bordo de una nave de carga, justo antes de que saliera del puerto.</desc>
+    <!-- EN: [PAWN_nameDef]'s was raised to become an engineer. For years, he planned to stow away on a cargo ship and start a new, more adventuresome life.\n\nOne night, after his parents fell asleep, he managed to sneak on board a cargo ship just before it left port. -->
+    <desc>[PAWN_nameDef] fue criado para convertirse en ingeniero. Durante años, planeó refugiarse en un buque de carga e iniciar una nueva y más aventurera vida.\n\nUna noche, después de que sus padres se durmieran, logró escabullirse a bordo de una nave de carga, justo antes de que saliera del puerto.</desc>
   </AdventuringChild56>
   
   <AdventurousWeirdo83>
@@ -164,8 +164,8 @@
     <title>programador IA</title>
     <!-- EN: programmer -->
     <titleShort>programador</titleShort>
-    <!-- EN: Michael enlisted in the military's robotics division, developing smarter combat AI.\n\nThe whole time he was there, he never spoke with another human. He spent all his time conversing with the AI he was developing. -->
-    <desc>Michael se alistó en la división de robótica de los militares, desarrollando una IA de combate más inteligente.\n\nDurante todo el tiempo que estuvo allí, nunca habló con otro humano. Pasaba todo su tiempo conversando con la IA que estaba desarrollando.</desc>
+    <!-- EN: [PAWN_nameDef]'s enlisted in the military's robotics division, developing smarter combat AI.\n\nThe whole time he was there, he never spoke with another human. He spent all his time conversing with the AI he was developing. -->
+    <desc>[PAWN_nameDef]'s se alistó en la división de robótica de los militares, desarrollando una IA de combate más inteligente.\n\nDurante todo el tiempo que estuvo allí, nunca habló con otro humano. Pasaba todo su tiempo conversando con la IA que estaba desarrollando.</desc>
   </AIProgrammer5>
   
   <AIResearcher30>
@@ -173,8 +173,8 @@
     <title>investigador de IA</title>
     <!-- EN: researcher -->
     <titleShort>investigador</titleShort>
-    <!-- EN: Dave was a renowned researcher in artificial intelligence, robotics, and interactive holography. His friendships with the artificial minds he created gave him the confidence to interact with real people, and he soon excelled at personal communication. -->
-    <desc>Dave era un investigador renombrado en la inteligencia artificial, la robótica, y la holografía interactiva. Sus amistades con las mentes artificiales que creó le dieron la confianza para interactuar con personas reales, y pronto se destacó en la comunicación personal.</desc>
+    <!-- EN: [PAWN_nameDef]'s was a renowned researcher in artificial intelligence, robotics, and interactive holography. His friendships with the artificial minds he created gave him the confidence to interact with real people, and he soon excelled at personal communication. -->
+    <desc>[PAWN_nameDef] era un investigador renombrado en la inteligencia artificial, la robótica, y la holografía interactiva. Sus amistades con las mentes artificiales que creó le dieron la confianza para interactuar con personas reales, y pronto se destacó en la comunicación personal.</desc>
   </AIResearcher30>
   
   <AlcoholicTrucker58>
@@ -183,7 +183,7 @@
     <!-- EN: alcoholic -->
     <titleShort>alcohólico</titleShort>
     <!-- EN: [PAWN_nameDef] was a space trucker working for Arcknight Industries when he killed his wife and daughter in a crash.\n\nHis body was repaired with an experimental nano-genetic therapy. Now his muscles continually regenerate and harden, and every movement tears the tissue anew. He bears the pain in silence. -->
-    <desc>[PAWN_nameDef] era un camionero espacial que trabajaba para 'Industrias Arcknight' cuando perdió a su esposa y a su hija en un accidente.\n\nSu cuerpo fue reparado con una terapia nano-genética experimental. Ahora sus músculos se regeneran continuamente y se endurecen, y cada movimiento desgarra el tejido nuevamente. Él soporta el dolor en silencio.</desc>
+    <desc>[PAWN_nameDef] era un camionero espacial que trabajaba para 'Industrias Arcknight' cuando mató a su esposa y a su hija en un accidente.\n\nSu cuerpo fue reparado con una terapia nano-genética experimental. Ahora sus músculos se regeneran continuamente y se endurecen, y cada movimiento desgarra el tejido nuevamente. Él soporta el dolor en silencio.</desc>
   </AlcoholicTrucker58>
   
   <AmateurAstronomer86>
@@ -192,7 +192,7 @@
     <!-- EN: astronomer -->
     <titleShort>astrónomo</titleShort>
     <!-- EN: [PAWN_nameDef] was fascinated with astronomy. [PAWN_pronoun] would spend hours gazing at planets and nebulae through his telescope.\n\n[PAWN_pronoun] is credited with discovering a small comet that would, years later, strike a nearby moon and disrupt the mining operations there. -->
-    <desc>[PAWN_nameDef] estaba fascinado(a) con la astronomía. [PAWN_pronoun] pasaba horas contemplando planetas y nebulosas a través de su telescopio.\n\nSe atribuye a [PAWN_pronoun] descubrimiento de un pequeño cometa que, años más tarde, golpearía una luna cercana e interrumpiría las operaciones mineras allí.</desc>
+    <desc>[PAWN_nameDef] estaba fascinado(a) con la astronomía. [PAWN_pronoun] pasaba horas contemplando planetas y nebulosas a través de su telescopio.\n\nSe le atribuye a [PAWN_pronoun] un descubrimiento de un pequeño cometa que, años más tarde, golpearía una luna cercana e interrumpiría las operaciones mineras allí.</desc>
   </AmateurAstronomer86>
   
   <AmateurBotanist14>
@@ -200,8 +200,8 @@
     <title>botánico aficionado</title>
     <!-- EN: botanist -->
     <titleShort>botánico</titleShort>
-    <!-- EN: Spending many summers crawling through dirt, Christian found he had quite the green thumb. Instead of learning to cook the food he grew, he just grew more and more. -->
-    <desc>Pasando muchos veranos arrastrándose por la tierra, Christian encontró que tenía talento para la jardinería. En lugar de aprender a cocinar la comida que cultivaba, sólo cultivaba más y más.</desc>
+    <!-- EN: Spending many summers crawling through dirt, [PAWN_nameDef] found he had quite the green thumb. Instead of learning to cook the food he grew, he just grew more and more. -->
+    <desc>Pasando muchos veranos arrastrándose por la tierra, [PAWN_nameDef] encontró que tenía talento para la jardinería. En lugar de aprender a cocinar la comida que cultivaba, sólo cultivaba más y más.</desc>
   </AmateurBotanist14>
   
   <AmateurEngineer34>
@@ -219,12 +219,12 @@
     <!-- EN: anarchist -->
     <titleShort>anarquista</titleShort>
     <!-- EN: After being abandoned on a special operation, [PAWN_nameDef] swore vengeance upon the state. [PAWN_pronoun] formed an anarchist group dedicated to bringing down core world governments.\n\nAfter too many close calls, and too few successes, [PAWN_nameDef] fled to the outer rim. -->
-    <desc>Después de ser abandonado(a) en una operación especial, [PAWN_nameDef] juró vengarse del estado. [PAWN_pronoun] formó un grupo anarquista dedicado a derrocar gobiernos del mundo.\n\nDespués de demasiadas dificultades y muy pocos éxitos, [PAWN_nameDef] huyó al borde exterior.</desc>
+    <desc>Después de ser abandonado(a) en una operación especial, [PAWN_nameDef] juró vengarse del estado. [PAWN_pronoun] formó un grupo anarquista dedicado a derrocar gobiernos centrales del mundo.\n\nDespués de demasiadas dificultades y muy pocos éxitos, [PAWN_nameDef] huyó al borde exterior.</desc>
   </AnarchistRebel83>
   
   <AngryStudent84>
     <!-- EN: angry student -->
-    <title>estudiante hambriendo</title>
+    <title>estudiante enojado</title>
     <!-- EN: student -->
     <titleShort>estudiante</titleShort>
     <!-- EN: [PAWN_nameDef] trained towards [PAWN_possessive] dream of working for his hometown's local council.\n\nFor reasons he never quite understood, [PAWN_pronoun] was bullied relentlessly by his classmates. [PAWN_pronoun] chose to repress his rage. -->
@@ -269,11 +269,11 @@
   
   <ApocalypseSurvivor23>
     <!-- EN: apocalypse survivor -->
-    <title>sobreviviente apocalip</title>
+    <title>sobreviviente apocalipsis</title>
     <!-- EN: survivor -->
     <titleShort>sobreviviente</titleShort>
     <!-- EN: [PAWN_nameDef] was born during a time of unrest on [PAWN_possessive] homeworld, as climate change threatened mass starvation and flooding. As [PAWN_pronoun] grew up the situation worsened - billions died and peaceful states descended into anarchy. [PAWN_nameDef] and [PAWN_possessive] parents did whatever they had to to survive. -->
-    <desc>[PAWN_nameDef] nació durante una época catastrófica para su munto natal, cuando el cambio climático amenazaba con hambrunas e inundaciones masivas. Conforme [PAWN_pronoun] crecía, la situación empeoró, miles de millones murieron y los gobiernos cayeron en la anarquía. [PAWN_nameDef] y sus padres hicieron lo que pudieron para sobrevivir.</desc>
+    <desc>[PAWN_nameDef] nació durante una época catastrófica para su munto natal, el cambio climático amenazaba con hambrunas e inundaciones masivas. Conforme [PAWN_pronoun] crecía, la situación empeoró, miles de millones murieron y los gobiernos cayeron en la anarquía. [PAWN_nameDef] y sus padres hicieron lo que pudieron para sobrevivir.</desc>
   </ApocalypseSurvivor23>
   
   <ApprenticeOracle83>
